@@ -4,7 +4,7 @@
 <body>
 <h1> WEB DESIGN TUTORIAL</h1>
 <p> to design a website, 
-How to Make a Website 
+<b>How to Make a Website</b>
 1. Sign up for a website builder 
 2. Select a template 
 3. Pick a domain name 
@@ -15,6 +15,6 @@ How to Make a Website
 8. Share it with the world </p>
 <P><br /> <b>WEB DESIGN</b> <p>
 <hr />
-<p>This week being the 4<sup>the</sup> <br />of August<sub>,</sub> we’re looking at <br />work proposals, what to consider, what to <br />include in your price quote, and a <br />pricing system for your services, especially <br />if you’re building websites with Elementor.
+<p>This week being the 4<sup>the</sup> <br />of August<sub>,</sub> we’re looking at <br /><i>work proposals</I>, what to consider, what to <br />include in your price quote, and a <br />pricing system for your services, especially <br />if you’re building websites with Elementor.
 </body>
 </html>
