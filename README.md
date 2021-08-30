@@ -16,6 +16,8 @@
 <P><br /> <b>WEB DESIGN</b> <p>
 <hr />
 <p>This week being the 4<sup>th</sup> of August<sub>2021</sub> we’re looking at <i>work proposals</I>, what to consider, what to include in your price quote, and a pricing system for your services, especially if you’re building websites with Elementor.
-
+<p<a href="web design.html"> This is a <strong>reference</strong> for the <em>tutorials</em>
+</blockquote>
+As A.A. Milne said,<q>some people talk to animals. Not many listen though. That's an the problem.</q>
 </body>
 </html>
