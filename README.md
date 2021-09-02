@@ -21,5 +21,8 @@
 </blockquote>
 <br />
 <p>To abbreviate, use <abbr title = Abbreviation">abbr</abbr> the abbreviation code. It can also work with acronyms. Eg <acronym title="Nigeria Police Force">NPF</acronym>. This work done using this code, reflects the hidden full meaning of the acronym</p>
+<br /> 
+<hr> CITATIONS AND DEFINITIONS</hr>
+<p><cite>A Brief History of time</cite> by Mishael Ugo has sold over ten million copies worldwide.</p>
 </body>
 </html>
