@@ -25,5 +25,6 @@
 <p>CITATIONS AND DEFINITIONS</p>
 <hr />
 <p><cite>A Brief History of time</cite> by Mishael Ugo has sold over ten million copies worldwide.</p>
+<p>A <dfn> black hole</dfn> is a region of space from which nothing,not even light can escape.</p>
 </body>
 </html>
