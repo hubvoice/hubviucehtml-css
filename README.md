@@ -16,7 +16,7 @@
 <P><br /> <b>WEB DESIGN</b> <p>
 <hr />
 <p>This week being the 4<sup>th</sup> of August<sub>2021</sub> we’re looking at <i>work proposals</I>, what to consider, what to include in your price quote, and a pricing system for your services, especially if you’re building websites with Elementor.</p>
-<p><a href="web design.html"> This is a <strong>reference</strong> for the <em>tutorials</em></p>
+<p><blockquote cite="http://en.wikipedia.org/wiki/Winnie-the-Pooh"> This is a <strong>reference</strong> for the <em>tutorials</em></p>
 </blockquote>
 <p>As A.A. Milne said,<q>some people talk to animals. Not many listen though. That's an the problem.</q></p>
 <p>To abbreviate, use <abbr title = Abbreviation">abbr</abbr>the abbreviation code. It can also work with acronyms. Eg<acronym title="Nigeria Police Force">NPF</acronym>. This work done using this code, reflects the hidden full meaning of the acronym
