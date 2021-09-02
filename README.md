@@ -19,5 +19,6 @@
 <p><a href="web design.html"> This is a <strong>reference</strong> for the <em>tutorials</em></p>
 </blockquote>
 <p>As A.A. Milne said,<q>some people talk to animals. Not many listen though. That's an the problem.</q></p>
+<p>To abbreviate, use <abbr title = Abbreviation">abbr</abbr>the abbreviation code. It can also work with acronyms. Eg<acronym title="Nigeria Police Force">NPF</acronym>. This work done using this code, reflects the hidden full meaning of the acronym
 </body>
 </html>
