@@ -49,11 +49,16 @@ HOW TO MAKE CAKE
 <br />
 ITEMS FOR PIE MAKING
 <hr />
-<u1>
-<1i>1kg of potatoes</1i>
-<1i>100ml milk</1i>
-<1i>50g salted water</1i>
-</u1>
-<dl
+<ul>
+<Li>1kg of potatoes</li>
+<li>100ml milk</li>
+<li>50g salted water</li>
+</ul>
+<dl>
+<dt>Sashimi</dt>
+<dd>sliced raw fish that is served with condiments such as shredded Daikin radish or ginger root, wasabi and soy sauce</dd>
+<dt>Scale</dt>
+<dd>A device used to accurately measure the weight of ingredients</dd>
+
 </body>
 </html>
