@@ -29,5 +29,8 @@
 <br />
 <p>AUTHOR DETAILS</p>
 <hr />
+<address>
+<p><a href="mailto: revivalfrequency.org">revivalfrequency.org</a></p>
+<p>Km 147 IkotEkpene Express Road</p>
 </body>
 </html>
