@@ -36,7 +36,8 @@
 CHANGES TO CONTENT
 <hr />
 <p>Laptop Computer</p>
-<p>was<s>$99.9</s>
+<p>was <s>$99.9</s></p>
 <p>now only $50</p>
+
 </body>
 </html>
