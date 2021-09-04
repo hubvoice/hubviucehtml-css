@@ -32,5 +32,11 @@
 <address>
 <p><a href="mailto: revivalfrequency.org">revivalfrequency.org</a></p>
 <p>Km 147 IkotEkpene Express Road</p>
+<br />
+CHANGES TO CONTENT
+<hr />
+<p>Laptop Computer</p>
+<p>was<s>$99.9</s>
+<p>now only $50</p>
 </body>
 </html>
