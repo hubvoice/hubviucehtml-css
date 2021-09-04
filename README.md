@@ -41,11 +41,11 @@ CHANGES TO CONTENT
 <br />
 HOW TO MAKE CAKE
 <hr />
-<01> 
-<1i>Chop potatoes</1i>
-<1i>Heat milk and butter</1i>
-<1i>mix potatoes in the milk mixture</1i>
-</0I>
+<ol> 
+<li>Chop potatoes</1i>
+<li>Heat milk and butter</1i>
+<Li>mix potatoes in the milk mixture</1i>
+</0l>
 <br />
 ITEMS FOR PIE MAKING
 <hr />
@@ -54,5 +54,6 @@ ITEMS FOR PIE MAKING
 <1i>100ml milk</1i>
 <1i>50g salted water</1i>
 </u1>
+<dl
 </body>
 </html>
