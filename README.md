@@ -38,6 +38,21 @@ CHANGES TO CONTENT
 <p>Laptop Computer</p>
 <p>was <s>$99.9</s></p>
 <p>now only $50</p>
-
+<br />
+HOW TO MAKE CAKE
+<hr />
+<o1> 
+<1i>Chop potatoes</1i>
+<1i>Heat milk and butter</1i>
+<1i>mix potatoes in the milk mixture</1i>
+</o1>
+<br />
+ITEMS FOR PIE MAKING
+<hr />
+<u1>
+<1i>1kg of potatoes</1i>
+<1i>100ml milk</1i>
+<1i>50g salted water</1i>
+</u1>
 </body>
 </html>
