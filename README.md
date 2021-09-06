@@ -88,7 +88,7 @@ NASTED LIST
 <ul>
 <li><a href="http://www.wwe.com">Wrestling</a></li>
 <li><a href="http://www.empireonline.com">Empire</a></li>
-<li><a href="http://www.variety.com"</a></li>
+<li><a href="http://www.variety.com">Variety</a></li>
 </ul>
 </p>
 </body>
