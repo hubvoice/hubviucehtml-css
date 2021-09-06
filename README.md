@@ -74,5 +74,14 @@ NASTED LIST
 <li>Tarts</li>
 </ul>
 <h2> LINKS</h2>
+<p> Links are the defining feature of the web because they allow you move from one web page to another-enabling the very idea of browsing or in surfing<p/>
+<p>You will commonly come across the following types of link<p/>
+<ul>
+<li>Links from one website to another</li>
+<Li>Links from one page to another on the same website <li/>
+<Li>Links from one part of a web page to another part of the same page<li/>
+<Li>Links that open in a new browser window<li/>
+<Li>Links that start up your email program and address a new email to someone<li/>
+<Ul/>
 </body>
 </html>
