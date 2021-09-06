@@ -78,10 +78,10 @@ NASTED LIST
 <p>You will commonly come across the following types of link<p/>
 <ul>
 <li>Links from one website to another</li>
-<Li>Links from one page to another on the same website <li/>
-<Li>Links from one part of a web page to another part of the same page<li/>
-<Li>Links that open in a new browser window<li/>
-<Li>Links that start up your email program and address a new email to someone<li/>
-<Ul/>
+<li>Links from one page to another on the same website <li/>
+<li>Links from one part of a web page to another part of the same page<li/>
+<li>Links that open in a new browser window<li/>
+<li>Links that start up your email program and address a new email to someone<li/>
+<ul/>
 </body>
 </html>
