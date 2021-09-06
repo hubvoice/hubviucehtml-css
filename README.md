@@ -83,5 +83,13 @@ NASTED LIST
 <li>Links that open in a new browser window<li/>
 <li>Links that start up your email program and address a new email to someone<li/>
 <ul/>
+<br />
+<p>Movie Review:
+<ul>
+<li><a href="http://www.wwe.com">Wrestling</a></li>
+<li><a href="http://www.empireonline.com">Empire</a></li>
+<li><a href="http://www.variety.com"</a></li>
+</ul>
+</p>
 </body>
 </html>
