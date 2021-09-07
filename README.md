@@ -94,3 +94,20 @@ NASTED LIST
 <p><a href ="http://www. Imdb.com" target="_blank"> Internet Movie Database</a></p>
 </body>
 </html>
+<html>
+<head> 
+<title>Links</title>
+</head>
+<body>
+<h1 I'd="top">Film Making Terms</h1>
+<a href="#arc_shot">Arc Shot</a><br />
+<a href="#interlude">Interlude</a><br />
+<a href="#prologue">Prologue</a><br />
+<h2 id="arc_shot">Arc Shot</h2>
+<p> A shot in which the subject is photographed by an encircling or moving camera</p>
+<h2 id="interlude">Interlude</h2>
+<p>A Brief, intervening film scene or sequence, not specifically tied to the plot, that appears within a film</p>
+<h2 id="prologue">prologue</h2>
+<P> A speech, preface, introduction, or brief scene preceding the main action or plot of a film; contrast to epilogue</p>
+<p><a href="#top">Top</a></p>
+
