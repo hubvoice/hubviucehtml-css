@@ -91,6 +91,6 @@ NASTED LIST
 <li><a href="http://www.variety.com">Variety</a></li>
 </ul>
 </p>
-<p><a href ="http://www. Imdb.com"target="_blank" Internet Movie Database</a></p>
+<p><a href ="http://www. Imdb.com" target="_blank"> Internet Movie Database</a></p>
 </body>
 </html>
