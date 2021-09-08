@@ -95,9 +95,6 @@ NASTED LIST
 </body>
 </html>
 <html>
-<head> 
-<h3>Links</h3>
-</head>
 <body>
 <h1 I'd="top">Film Making Terms</h1>
 <a href="#arc_shot">Arc Shot</a><br />
@@ -120,5 +117,12 @@ NASTED LIST
 <li><a href="contact.html">Contact</a></li>
 </ul>
 </p>
-
+<br />
+<a href="Reviews.html">Reviews</a>
+<a href="music/listening.html">Listenings</a>
+<a href="movies/DVD/reviews.html">Reviews</a>
+<a href="../index.html">Home</a>
+<a href="../../index.html">Home</a>
+</body>
+</html>
 
