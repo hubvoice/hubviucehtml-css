@@ -112,5 +112,13 @@ NASTED LIST
 <p><a href="#top">Top</a></p>
 <br /> 
 <a href="mailto: mishaelochulorugo1@gmail.com">Email Mishael</a>
+<p>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="about-us.html">About</a></li>
+<li><a href="movies.html">movies</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</p>
 
 
