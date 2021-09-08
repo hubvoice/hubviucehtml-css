@@ -123,6 +123,10 @@ NASTED LIST
 <a href="movies/DVD/reviews.html">Reviews</a>
 <a href="../index.html">Home</a>
 <a href="../../index.html">Home</a>
+<br />
+IMAGES
+<hr />
+
 </body>
 </html>
 
