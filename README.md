@@ -126,7 +126,7 @@ NASTED LIST
 <br />
 IMAGES
 <hr />
-<Omg SRC="images/quokka.jpg" alt=" a family of quokka" title=" The quokka is an Australian marsupial that is similar in size to the domestic cat." />
+<Img SRC="images/quokka.jpg" alt=" a family of quokka" title=" The quokka is an Australian marsupial that is similar in size to the domestic cat." />
 </body>
 </html>
 
