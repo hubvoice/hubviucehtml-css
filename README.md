@@ -127,7 +127,9 @@ NASTED LIST
 IMAGES
 <hr />
 <Img SRC="!IMG_-fzga6m](https://user-images.githubusercontent.com/89052042/133282773-a3a3648b-0165-4242-a29f-99d3e15e81bb.jpg" alt=" De-Voice " title=" This is mishael de-voice." width=10 height =25 />
-  <Img SRC="!img https://github.com/hubvoice/hubviucehtml-css/issues/2#issue-996152001" alt=" De-Voice " title=" This is mishael de-voice." width=10 height =25 />
+  <p><Img SRC="!img https://github.com/hubvoice/hubviucehtml-css/issues/2#issue-996152001" alt=" De-Voice " title=" This is mishael de-voice." width=10 height =25 />There are around 10 living species of birds that inabits different ecosystems fronArctic to the Antarctic.</p>
+<hr />
+<p><Img SRC="!IMG_-fzga6m](https://user-images.githubusercontent.com/89052042/133282773-a3a3648b-0165-4242-a29f-99d3e15e81bb.jpg" alt=" De-Voice " title=" This is mishael de-voice." width=10 height =25 />There are about 10 living species of birds that inhabits different ecosystems from the Arctic to the Antarctic</p>
 </body>
 </html>
 
