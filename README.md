@@ -148,6 +148,7 @@ IMAGES
 <td>105</td>
 </tr>
   <table>  <tr>    <th></th>    <th scope="col">Saturday</th>    <th scope="col">Sunday</th>  </tr>  <tr>    <th scope="row">Tickets sold:</th>    <td>120</td>    <td>135</td>  </tr>  <tr>    <th scope="row">Total sales:</th>    <td>$600</td>    <td>$675</td>  </tr> </table>
+  <table>  <tr>    <th></th>    <th>9am</th>    <th>10am</th>    <th>11am</th>    <th>12am</th>  </tr>  <tr>    <th>Monday</th>    <td colspan="2">Geography</td>    <td>Math</td>    <td>Art</td>  </tr>  <tr>    <th>Tuesday</th>    <td colspan="3">Gym</td>    <td>Home Ec</td>  </tr> </table>
 </Table>
 </body>
 </html>
